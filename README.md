@@ -22,7 +22,7 @@ Both robots' software was built on LEGO® MINDSTORMS® EV3 Software v.1.31. You 
 The mechanics's part of this robot were built primarily using [LEGO MINDSTORMS® set](https://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313), 
 but not limited to it. The table below lists some of the components used in **Astrogildo** and **Biruleibe**.
 
- Item |Astrogildo| Biruleibe | Price | Buy
+ Item |Astrogildo (Qtd)| Biruleibe (Qtd)| Price | Buy
 ------|----|----|-------|-----
 EV3 Intelligent Brick | 1 | 1 | $197.99 | [buy](https://shop.lego.com/en-US/EV3-Intelligent-Brick-45500)
 EV3 Ultrasonic Sensor | 2 | 2 | $31.99 | [buy](https://shop.lego.com/en-US/EV3-Ultrasonic-Sensor-45504)
@@ -32,7 +32,7 @@ EV3 Cable Pack | 1 | 1 | $16.99 | [buy](https://shop.lego.com/en-US/EV3-Cable-Pa
 
 
 
-# Contribuitors
+# Contributors
 Several people contributed to this project, either with guidance, tips or getting their hands dirty. They are listed below.
 
 * Felipe Roberto
