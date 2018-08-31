@@ -16,7 +16,7 @@ The brothers are:
 ![Image of Biruleibe](https://github.com/Project-Neon/LegoBrothers/blob/master/media/biruleibe/biruleibe-side.jpg)
 
 # Software
-Both robots' software was built on LEGO® MINDSTORMS® EV3 Software v.1.31. You shouldn't have problems to run any of the three programs on  `src/` or in a version equal or greater than that.
+Both robots' software was built on LEGO® MINDSTORMS® [EV3 Software v.1.31](https://www.lego.com/en-us/mindstorms/downloads/download-software). You shouldn't have problems to run any of the three programs on  `src/` or in a version equal or greater than that.
 
 # Mechanics
 The mechanics's part of this robot were built primarily using [LEGO MINDSTORMS® set](https://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313), 
