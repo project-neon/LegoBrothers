@@ -1,4 +1,4 @@
-#LegoBrothers
+# LegoBrothers
 
 **The Legobrothers** (Super Neon Lego Brothers) are robots developed for Sumo Lego competitions under 1 kg, made by Project Neon for several robotic events. 
 
