@@ -1,42 +1,29 @@
-# Legobrothers
+#LegoBrothers
 
-**The Legobrothers** (Super Neon Lego Brothers) are robots developed for Sumo Lego competitions under 1 kg, made by Project Neon for the [Winter Challenge XIV 2018](https://www.robocore.net/eventos/wc14) event. 
+**The Legobrothers** (Super Neon Lego Brothers) are robots developed for Sumo Lego competitions under 1 kg, made by Project Neon for several robotic events. 
 
-The brothers are:
+They are dismantled and assembled, pushed and bullied, but they're ready for any competition or challenge you throw at them.
 
-**Astrogildo and Biruleibe**
-![Image of Legobrothers](https://github.com/Project-Neon/LegoBrothers/blob/master/media/brothers.JPG)
+# What competitions?
+We've tried several strategies and approaches for each competition. We've tried ramps, more motors, spinning arms and more. You can find each one on it's corresponding branch. 
 
-**Astrogildo**
-
-![Image of Astrogildo](https://github.com/Project-Neon/LegoBrothers/blob/master/media/astrogildo/astrogildo-sideways2.JPG)
-
-**Biruleibe**
-
-![Image of Biruleibe](https://github.com/Project-Neon/LegoBrothers/blob/master/media/biruleibe/biruleibe-side.jpg)
+Want to see our robots for the [Winter Challenge XIV 2018](https://www.robocore.net/eventos/wc14)? [Click here!] https://github.com/Project-Neon/LegoBrothers/tree/winter-challenge
 
 # Software
-Both robots' software was built on LEGO® MINDSTORMS® [EV3 Software v.1.31](https://www.lego.com/en-us/mindstorms/downloads/download-software). You shouldn't have problems to run any of the three programs on  `src/` or in a version equal or greater than that.
+Between competitions, we've switched from the [LEGO® MINDSTORMS® EV3 Software v.1.31](https://www.lego.com/en-us/mindstorms/downloads/download-software) to [ev3dev](https://www.ev3dev.org/), a Debian-Linux based distribution which allows you to create textual programs. It requires a bit more setting-up but once it's done it's pretty straightforward. Currently. on the `src/` folder you can find the programs we used for the most recent competition.
 
 # Mechanics
-The mechanics's part of this robot were built primarily using [LEGO MINDSTORMS® set](https://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313), 
-but not limited to it. The table below lists some of the components used in **Astrogildo** and **Biruleibe**.
+The mechanics's part of the Brothers were built primarily using [LEGO MINDSTORMS® set](https://shop.lego.com/en-US/LEGO-MINDSTORMS-EV3-31313), 
+but not limited to it. Across competitions we've tried using more motors and parts (touch sensors, different ramps). 
 
- Item |Astrogildo (Qtd)| Biruleibe (Qtd)| Price | Buy
-------|----|----|-------|-----
-EV3 Intelligent Brick | 1 | 1 | $197.99 | [buy](https://shop.lego.com/en-US/EV3-Intelligent-Brick-45500)
-EV3 Ultrasonic Sensor | 2 | 2 | $31.99 | [buy](https://shop.lego.com/en-US/EV3-Ultrasonic-Sensor-45504)
-EV3 Large Servo Motor | 2 | 2 | $26.99 | [buy](https://shop.lego.com/en-US/EV3-Large-Servo-Motor-45502)
-EV3 Medium Servo Motor | 0 | 1 | $21.99 | [buy](https://shop.lego.com/en-US/EV3-Medium-Servo-Motor-45503)
-EV3 Cable Pack | 1 | 1 | $16.99 | [buy](https://shop.lego.com/en-US/EV3-Cable-Pack-45514)
+You can find a table with the components for a specific event in it's branch. 
 
 
-
-# Contributors
+# Contribuitors
 Several people contributed to this project, either with guidance, tips or getting their hands dirty. They are listed below.
 
 * Felipe Roberto
-* Gabriel Zucchi
+* [Gabriel Zucchi](https://github.com/zucchi43)
 * [Gabriel Mendes](https://github.com/GaMendes)
 * [Ivan Seidel](https://github.com/ivanseidel)
 * [João Pedro Vilas Boas](https://github.com/joaopedrovbs)
