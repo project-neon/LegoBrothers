@@ -1,14 +1,15 @@
-#Winter Challenge
+# Winter Challenge
 
 For the [Winter Challenge XIV 2018](https://www.robocore.net/eventos/wc14), we used basic ramp/ram weapons, and the LEGO® MINDSTORMS® EV3 Software. 
 
-**Astrogildo**
+# The robots
 
-![Image of Astrogildo](https://github.com/Project-Neon/LegoBrothers/blob/master/media/astrogildo/astrogildo-sideways2.JPG)
+<p align="center";> <b>Astrogildo</b></p>
+<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/master/media/astrogildo/astrogildo-sideways2.JPG" width="500"/></div>
 
-**Biruleibe**
+<p align="center";> <b></b></p>
+<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/master/media/biruleibe/biruleibe-side.jpg" width="500"/></div>
 
-![Image of Biruleibe](https://github.com/Project-Neon/LegoBrothers/blob/master/media/biruleibe/biruleibe-side.jpg)
 
 # Software
 Both robots' software was built on [LEGO® MINDSTORMS® EV3 Software v.1.31](https://www.lego.com/en-us/mindstorms/downloads/download-software). You shouldn't have problems to run any of the three programs on  `src/` or in a version equal or greater than that.
