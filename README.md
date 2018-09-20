@@ -4,10 +4,10 @@ For the [Winter Challenge XIV 2018](https://www.robocore.net/eventos/wc14), we u
 
 # The robots
 
-<p align="center";> <b>Astrogildo</b></p>
+<p align="middle";> <b>Astrogildo</b></p>
 <div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/master/media/astrogildo/astrogildo-sideways2.JPG" width="500"/></div>
 
-<p align="center";> <b></b></p>
+<p align="middle";> <b>Biruleibe</b></p>
 <div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/master/media/biruleibe/biruleibe-side.jpg" width="500"/></div>
 
 
