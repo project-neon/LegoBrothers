@@ -1,11 +1,11 @@
 # Red Bull Basement
 
-For the [Red Bull Basement Festival](https://www.redbull.com/br-pt/events/festival-red-bull-basement-2018), we used basic ramp/ram weapons, and the ev3dev tool software. 
+At the [Red Bull Basement Festival](https://www.redbull.com/br-pt/events/festival-red-bull-basement-2018), for the Astrogildo we used four spinning wheels powered by two large motors to push our opponents upwards. For the Biruleibe robot, we used three motors for raw strength, and a shock-absorbing front made of wheels. For the behaviour programs, we used the ev3dev tool software. 
 
 # The robots
 
 <p align="left";> <b>Astrogildo</b></p>
-<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/astrogildo/astrogildo_sideways.jpg" width="500"/></div>
+<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/astrogildo/astrogildo_front.jpg" width="500"/></div>
 
 <p align="left";> <b>Biruleibe</b></p>
 <div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/biruleibe/biruleibe_sideways.jpg" width="500"/></div>
