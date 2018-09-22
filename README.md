@@ -5,10 +5,10 @@ For the [Red Bull Basement Festival](https://www.redbull.com/br-pt/events/festiv
 # The robots
 
 <p align="left";> <b>Astrogildo</b></p>
-<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/astrogildo/astrogildo-sideways.JPG" width="500"/></div>
+<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/astrogildo/astrogildo_sideways.jpg" width="500"/></div>
 
 <p align="left";> <b>Biruleibe</b></p>
-<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/biruleibe/biruleibe-sideways.jpg" width="500"/></div>
+<div style="align=middle"><img src = "https://github.com/Project-Neon/LegoBrothers/blob/red-bull-station/media/biruleibe/biruleibe_sideways.jpg" width="500"/></div>
 
 
 # Software
@@ -20,7 +20,7 @@ You'll need:
 - know how to estabilish SSH connections.
 
 
-We used the EV3's built-in Bluetooth to pair the Brickman and the MobaXterm software to estabilish a SSH (Secure Shell) connection between the EV3 and our notebooks.
+We used the EV3's built-in Bluetooth to pair the Brickman and the [MobaXterm](https://mobaxterm.mobatek.net/)software to estabilish a SSH (Secure Shell) connection between the EV3 and our notebooks.
 
 There are several nice tutorials avaiable, such as the one included in the ev3dev [docs](https://www.ev3dev.org/docs/tutorials/) page, and the [EV3python](https://sites.google.com/site/ev3python/) tutorials by community member Nigel Ward.
 
